@@ -44,14 +44,56 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="PresentationLogic\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="PresentationLogic\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\AddProjectView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\AddProjectView.Designer.cs">
+      <DependentUpon>AddProjectView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\ProfileView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\ProfileView.Designer.cs">
+      <DependentUpon>ProfileView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\SavingView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\SavingView.Designer.cs">
+      <DependentUpon>SavingView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\SettingsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\SettingsView.Designer.cs">
+      <DependentUpon>SettingsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\StartView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\StartView.Designer.cs">
+      <DependentUpon>StartView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\CommentsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PresentationLogic\Views\CommentsView.Designer.cs">
+      <DependentUpon>CommentsView.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresentationLogic\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLogic\Views\CommentsView.resx">
+      <DependentUpon>CommentsView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -60,6 +102,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -76,7 +119,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BussinessLogic\" />
-    <Folder Include="PresentationLogic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\cogs1.png" />
+    <Content Include="Icons\computer30.png" />
+    <Content Include="Icons\connection2.png" />
+    <Content Include="Icons\expand14.png" />
+    <Content Include="Icons\mechanic.png" />
+    <Content Include="Icons\thought2.png" />
+    <None Include="Resources\appbar.timer.5.png" />
+    <None Include="Resources\appbar.timer.4.png" />
+    <None Include="Resources\appbar.timer.3.png" />
+    <None Include="Resources\appbar.timer.2.png" />
+    <None Include="Resources\appbar.timer.1.png" />
+    <None Include="Resources\Settings.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

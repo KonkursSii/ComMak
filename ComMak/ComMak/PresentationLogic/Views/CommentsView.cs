@@ -16,5 +16,10 @@ namespace ComMak.PresentationLogic.Views
         {
             InitializeComponent();
         }
+
+        private void CommentsView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

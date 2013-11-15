@@ -14,3 +14,8 @@ C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\bin\Debug\ComMak.pdb
 C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.csprojResolveAssemblyReference.cache
 C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.Properties.Resources.resources
 C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.csproj.GenerateResource.Cache
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.PresentationLogic.MainForm.resources
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.PresentationLogic.Views.CommentsView.resources
+D:\Repozytoria\ComMak\ComMak\ComMak\bin\Debug\ComMak.exe.config
+D:\Repozytoria\ComMak\ComMak\ComMak\obj\Debug\ComMak.exe
+D:\Repozytoria\ComMak\ComMak\ComMak\obj\Debug\ComMak.pdb

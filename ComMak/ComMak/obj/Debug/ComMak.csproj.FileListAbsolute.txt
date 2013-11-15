@@ -6,3 +6,11 @@ c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\Co
 c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.csproj.GenerateResource.Cache
 c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.exe
 c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.pdb
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\bin\Debug\ComMak.exe.config
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.exe
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.pdb
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\bin\Debug\ComMak.exe
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\bin\Debug\ComMak.pdb
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\ComMak\ComMak\ComMak\obj\Debug\ComMak.csproj.GenerateResource.Cache

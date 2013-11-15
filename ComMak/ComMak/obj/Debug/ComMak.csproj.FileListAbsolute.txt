@@ -1,0 +1,8 @@
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\bin\Debug\ComMak.exe.config
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\bin\Debug\ComMak.exe
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\bin\Debug\ComMak.pdb
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.Properties.Resources.resources
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.csproj.GenerateResource.Cache
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.exe
+c:\users\lukasz\documents\visual studio 2013\Projects\ComMak\ComMak\obj\Debug\ComMak.pdb
